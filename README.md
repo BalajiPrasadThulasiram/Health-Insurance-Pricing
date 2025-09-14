@@ -1,6 +1,6 @@
 # Health Insurance Premium Pricing (GLM + Gradient Boosting)
 
-# Health Insurance Premium Pricing — Simple, Transparent Model
+
 
 [![Open In Colab]
 https://colab.research.google.com/drive/1oogzDyU_Rd2WEqNJeh2T8zzTqjDuoyPZ?usp=sharing
