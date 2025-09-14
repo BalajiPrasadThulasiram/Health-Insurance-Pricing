@@ -1,7 +1,5 @@
-# outputs: ignore everything inside, but keep the placeholder
 outputs/*
 !outputs/.gitkeep
-
-# data: ignore CSVs, but keep the folder (and placeholder)
-data/*.csv
-!data/.gitkeep
+!outputs/metrics.json
+!outputs/gbr_calibration_by_decile.csv
+!outputs/gbr_permutation_importance.csv
