@@ -1,0 +1,15 @@
+# venvs
+.venv/
+env/
+venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# os/editor
+.DS_Store
+
+# large/local outputs & raw data (keep these out of git)
+outputs/
+data/*.csv
