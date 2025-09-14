@@ -1,6 +1,6 @@
 # Health Insurance Premium Pricing (GLM + Gradient Boosting)
 
-**Dataset:** insurance.csv (Kaggle: Medical Cost Personal Datasets)
+**Dataset:** insurance.csv (Gathered from One of the widest hospital chains from South India)
 
 ## Results (test)
 - GLM — MAE: 7174.06, RMSE: 9990.77, R²: 0.357
