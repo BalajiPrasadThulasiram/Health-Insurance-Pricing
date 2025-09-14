@@ -1,5 +1,6 @@
+# in .gitignore (replace your current outputs/data lines)
 outputs/*
 !outputs/.gitkeep
-!outputs/metrics.json
-!outputs/gbr_calibration_by_decile.csv
-!outputs/gbr_permutation_importance.csv
+
+data/*.csv
+!data/.gitkeep
